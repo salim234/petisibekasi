@@ -7,7 +7,7 @@ interface PetitionFormProps {
 }
 
 const KECAMATAN_BEKASI = [
-  "Babelan", "Bojongmangu", "Cabangbungin", "Cibarusah", "Cibitung",
+  "Sukatani", "Babelan", "Bojongmangu", "Cabangbungin", "Cibarusah", "Cibitung",
   "Cikarang Barat", "Cikarang Pusat", "Cikarang Selatan", "Cikarang Timur", "Cikarang Utara",
   "Karangbahagia", "Kedungwaringin", "Muaragembong", "Pebayuran", "Serang Baru",
   "Setu", "Sukakarya", "Sukawangi", "Tambelang", "Tambun Selatan",
